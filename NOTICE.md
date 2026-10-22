@@ -1,6 +1,6 @@
 # Avisos
 
-`tg-solutions.js` incorpora, em Base64 e sem alterações, os seguintes ficheiros de fonte (subconjunto latino, woff2):
+`tg-solutions.js` incorpora, em Base64 e sem alterações, e `custom-elements/tg-home.js` carrega a partir de `tg-home-assets/fonts/`, os seguintes ficheiros de fonte (subconjuntos latinos, woff2, sem alterações):
 
 | Fonte | Copyright | Licença |
 |---|---|---|
@@ -9,4 +9,4 @@
 
 As fontes são registadas na página com os nomes "TG Murecho" e "TG Montserrat"; os ficheiros mantêm os seus metadados originais.
 
-O símbolo, os textos e o design da TechnoGreen incluídos nos componentes não estão abrangidos por nenhuma licença de reutilização. Todos os direitos reservados.
+O símbolo, as imagens, os textos e o design da TechnoGreen incluídos nos componentes e em `tg-home-assets/img/` não estão abrangidos por nenhuma licença de reutilização. Todos os direitos reservados.
